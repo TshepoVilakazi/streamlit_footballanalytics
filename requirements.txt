@@ -1,3 +1,4 @@
 pandas
 mplsoccer
 statsbombpy
+streamlit_option_menu
